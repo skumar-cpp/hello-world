@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hi, skumar here, i like python scripting for automation
