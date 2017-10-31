@@ -1,2 +1,2 @@
 # hello-world
-hi, skumar here, i like python scripting for automation
+TestGithub is a repository for showing the basre minimums of github and how ever, functions, etc
